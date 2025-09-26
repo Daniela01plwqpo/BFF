@@ -1,5 +1,7 @@
 # 02-backend
 
+clone el repositorio git clone https://github.com/Daniela01plwqpo/02-backend
+
 Archivos:
 db.js: Configuración y conexión a PostgreSQL con Sequelize
 index.js: Archivo principal del servidor y rutas 
