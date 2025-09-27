@@ -19,7 +19,7 @@ npm
 postgresql
 
 para abri el archivo ejecute en la terminal node index.js
-cuando salga conexion exitosa de clic al la url que saldra algo como (http://localhost:3000/)
+cuando salga conexion exitosa de clic al la url que saldra algo como (http://localhost:3000/api/producto)
 
 
 
